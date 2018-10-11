@@ -1,2 +1,2 @@
 # Beg.-Flask 
-getting started with Flask.
+Web applications in Flask Framework. 
